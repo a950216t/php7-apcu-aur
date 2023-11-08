@@ -1,5 +1,5 @@
 # Maintainer: Tomasz Gruszka <tompear79@gmail.com>
-_phpversion=74
+_phpversion=7
 pkgname=php${_phpversion}-apcu
 pkgver=5.1.22
 pkgrel=1
